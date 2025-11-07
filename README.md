@@ -17,6 +17,11 @@ My security research spans diverse blockchain platforms. I have
 
 | When | Report | Tech |
 |------|--------|------|
+| Nov 2025 | [Centrifuge_Protocol_V3.1](https://code4rena.com/audits/2025-10-sequence) | Solidity |
+| Sep 2025 | [Sequence](https://code4rena.com/audits/2025-10-sequence) | Solidity |
+| Aug 2025 | [Solayer_Bridge](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb/overview) | Rust |
+| Jul 2025 | [Citrea](https://cantina.xyz/code/49b9e08d-4f8f-4103-b6e5-f5f43cf9faa1/overview) | Rust |
+| Jul 2025 | [pike_tapio_monrepo](https://cantina.xyz/code/a0806644-7d91-457a-a08d-aee2db73f352/overview) | Solidity |
 | Jul 2025 | [Morpho-vaults-v2](https://cantina.xyz/competitions/523e1540-f8c3-45ae-9c5d-b6d35d3a326c) | Solidity |
 | Jul 2025 | [Asymmetry](https://cantina.xyz/competitions/3765f098-ef5c-47be-beb9-3f4ce9dcb407) | Solidity |
 | Jun 2025 | [Telcoin-network](https://cantina.xyz/competitions/26d5255b-6f68-46cf-be55-81dd565d9d16) | Rust/Solidity |
