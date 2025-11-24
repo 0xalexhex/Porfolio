@@ -1,6 +1,6 @@
 # Security Researcher Portfolio
 
-**Multiple Projects Secured | Crypto Native Since 2020 | Security Researcher Since UST Crash**
+**Multiple Projects Secured | Crypto Native Since 2020 | Never forget UST Crash**
 
 A blockchain security expert specializing in smart contract audits. Active in crypto since 2020, I transitioned into smart contract security research after experiencing losses during the UST crash. This personal experience drives my commitment to identifying vulnerabilities and protecting user funds across notable audits including Morpho Protocol and Aquarius.
 
